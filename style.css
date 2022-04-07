@@ -120,3 +120,8 @@ h1{
   
     } 
 }
+ @media screen (min-width:1140px) {
+     p{
+         font size: 40px;
+     }
+ }
