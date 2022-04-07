@@ -24,6 +24,11 @@ html{
     z-index: 1;
     color: aliceblue;
 }
+:target{
+    display: block;
+    position: relative;
+    top: -120px;
+  }
 
 a:hover{
     color: black;
