@@ -24,7 +24,7 @@ html{
     z-index: 1;
     color: aliceblue;
 }
-:target{
+:target {
     display: block;
     position: relative;
     top: -120px;
@@ -114,10 +114,8 @@ h1{
     text-align: center;
 }
 
-@media (max-width:760) {
-
+@media (max-width:960px) {
+    p{
+    font-size: 24px;
+    } 
 }
-@media (max-width: 576px) { 
-
-
- }
