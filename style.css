@@ -1,0 +1,118 @@
+html{
+    overflow-x: hidden;
+}
+
+#header{
+    background-color: black;
+    color: white;
+}
+
+
+
+#nav-bar{
+    text-align: center;
+    word-spacing: 150px;
+    font-family: UnifrakturCook, monospace;
+    font-size: 30px;
+    background-color: gray;
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    z-index: 1;
+    color: aliceblue;
+}
+
+a:hover{
+    color: black;
+}
+a{
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+
+#header-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#form{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+h2{
+    font-family: UnifrakturCook, monospace;
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+}
+
+
+.video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+.pics{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pictures{
+    background-color: black;
+}
+
+.words{
+    background-color: grey;
+}
+
+.music{
+    background-color: black;
+}
+
+.emailbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3{
+    font-family:  UnifrakturCook, monospace;
+    color: aliceblue;
+    text-align: center;
+}
+
+h1{
+    font-family:  UnifrakturCook, monospace;
+    color: aliceblue;
+    text-align: center;
+}
+
+@media (max-width:760) {
+
+}
+@media (max-width: 576px) { 
+
+
+ }
